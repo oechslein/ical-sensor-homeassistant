@@ -1,8 +1,8 @@
 {
         "domain": "ical",
-        "name": "iCal Sensor",
-        "documentation": "https://github.com/tybritten/ical-sensor-homeassistant",
+        "name": "iCal Sensor (mod)",
+        "documentation": "https://github.com/oechslein/ical-sensor-homeassistant",
         "requirements": ["icalendar", "requests", "arrow>=0.10.0"],
         "dependencies": [],
-        "codeowners": ["@tybritten"]
+        "codeowners": ["@tybritten", "@oechslein"]
 }
